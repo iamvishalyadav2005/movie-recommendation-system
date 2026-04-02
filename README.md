@@ -5,7 +5,7 @@ An intelligent movie recommendation system that suggests personalized movies usi
 ---
 
 ## 🚀 Live Demo
-https://your-app-link.streamlit.app
+https://smart-movie-recommender-vishal.streamlit.app/
 
 ---
 
