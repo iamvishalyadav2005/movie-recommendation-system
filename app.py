@@ -1,4 +1,4 @@
-API_KEY = "ed29111a2fcf9ab38042a842a1ec8d77"
+API_KEY = "YOUR_API_KEY"
 
 import numpy as np
 import pandas as pd
