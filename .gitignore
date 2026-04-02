@@ -15,4 +15,8 @@ env/
 Thumbs.db
 
 # Logs
+<<<<<<< HEAD
 *.log
+=======
+*.log
+>>>>>>> 5c573302642a4155a68ce93a27f87a514cd2dc50
