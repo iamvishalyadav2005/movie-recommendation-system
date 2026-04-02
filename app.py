@@ -1,10 +1,10 @@
-API_KEY = st.secrets["API_KEY"]
-
+import streamlit as st
 import numpy as np
 import pandas as pd
-import streamlit as st
 import requests
 import re
+
+API_KEY = st.secrets["API_KEY"]
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
