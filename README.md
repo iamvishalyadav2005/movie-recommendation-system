@@ -5,8 +5,7 @@ An intelligent movie recommendation system that suggests personalized movies usi
 ---
 
 ## 🚀 Live Demo
-
-*(Add your deployed link here after deployment)*
+https://your-app-link.streamlit.app
 
 ---
 
