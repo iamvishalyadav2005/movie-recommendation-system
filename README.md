@@ -1,6 +1,6 @@
 # 🎬 Smart Movie Recommender
 
-An intelligent movie recommendation system that suggests personalized movies using machine learning techniques such as content-based filtering, collaborative filtering, and a hybrid approach.
+An intelligent movie recommendation system that suggests personalized movies using machine learning techniques such as popularity-based filtering, content-based filtering, collaborative filtering, and a hybrid approach.
 
 ---
 
@@ -16,7 +16,8 @@ https://smart-movie-recommender-vishal.streamlit.app/
 ---
 
 ## 📌 Features
-*🔥 **Popularity-Based Filtering** – Recommends trending movies based on ratings and popularity 
+
+*🔥**Popularity-Based Filtering** – Recommends trending movies based on ratings and popularity 
 * 🎯 **Content-Based Filtering** – Recommends movies based on similarity in genres
 * 🤝 **Collaborative Filtering** – Uses user ratings to find similar movies
 * 🔥 **Hybrid Recommendation System** – Combines multiple techniques for better accuracy
