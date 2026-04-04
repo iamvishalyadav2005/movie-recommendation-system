@@ -16,7 +16,7 @@ https://smart-movie-recommender-vishal.streamlit.app/
 ---
 
 ## 📌 Features
-
+*🔥 **Popularity-Based Filtering** – Recommends trending movies based on ratings and popularity 
 * 🎯 **Content-Based Filtering** – Recommends movies based on similarity in genres
 * 🤝 **Collaborative Filtering** – Uses user ratings to find similar movies
 * 🔥 **Hybrid Recommendation System** – Combines multiple techniques for better accuracy
@@ -28,22 +28,27 @@ https://smart-movie-recommender-vishal.streamlit.app/
 
 ## 🧠 How It Works
 
-1. **Data Preprocessing**
+1. **Popularity-Based Filtering**
+
+*Recommends movies based on overall ratings and number of user interactions  
+*Helps suggest trending and widely liked movies  
+
+2. **Data Preprocessing**
 
    * Cleaned and merged movie & rating datasets
    * Handled missing values
 
-2. **Content-Based Filtering**
+3. **Content-Based Filtering**
 
    * Used TF-IDF vectorization on genres
    * Applied cosine similarity to find similar movies
 
-3. **Collaborative Filtering**
+4. **Collaborative Filtering**
 
    * Built user-item matrix
    * Calculated similarity between movies using ratings
 
-4. **Hybrid Model**
+5. **Hybrid Model**
 
    * Combined:
 
