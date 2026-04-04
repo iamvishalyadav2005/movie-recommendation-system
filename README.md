@@ -17,13 +17,13 @@ https://smart-movie-recommender-vishal.streamlit.app/
 
 ## 📌 Features
 
-*🔥**Popularity-Based Filtering** – Recommends trending movies based on ratings and popularity 
-* 🎯 **Content-Based Filtering** – Recommends movies based on similarity in genres
-* 🤝 **Collaborative Filtering** – Uses user ratings to find similar movies
-* 🔥 **Hybrid Recommendation System** – Combines multiple techniques for better accuracy
-* 🖼️ **Movie Posters Integration** – Fetches posters using TMDB API
-* 🎨 **Modern UI** – Netflix-style responsive interface using Streamlit
-* ⚡ **Fast Performance** – Optimized using caching
+- 🔥 **Popularity-Based Filtering** – Recommends trending movies based on ratings and popularity  
+- 🎯 **Content-Based Filtering** – Recommends movies based on similarity in genres  
+- 🤝 **Collaborative Filtering** – Uses user ratings to find similar movies  
+- 🚀 **Hybrid Recommendation System** – Combines multiple techniques for better accuracy  
+- 🖼️ **Movie Posters Integration** – Fetches posters using TMDB API  
+- 🎨 **Modern UI** – Netflix-style responsive interface using Streamlit  
+- ⚡ **Fast Performance** – Optimized using caching  
 
 ---
 
